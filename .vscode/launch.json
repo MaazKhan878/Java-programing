@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbstractClasses",
+            "request": "launch",
+            "mainClass": "AbstractAndInterfaces.AbstractClasses",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "SmartPhoneRuning",
+            "request": "launch",
+            "mainClass": "AbstractAndInterfaces.SmartPhoneRuning",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Problem1",
+            "request": "launch",
+            "mainClass": "MaazSwaty.Problem1",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "CalanderClass",
+            "request": "launch",
+            "mainClass": "CollectionFramWorks.CalanderClass",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "DateAndTime",
+            "request": "launch",
+            "mainClass": "CollectionFramWorks.DateAndTime",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Hashing",
+            "request": "launch",
+            "mainClass": "CollectionFramWorks.Hashing",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDequeue",
+            "request": "launch",
+            "mainClass": "CollectionFramWorks.ArrayDequeue",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "LinkedL",
+            "request": "launch",
+            "mainClass": "CollectionFramWorks.LinkedL",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ArrayL",
+            "request": "launch",
+            "mainClass": "CollectionFramWorks.ArrayL",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ThrowThrows",
+            "request": "launch",
+            "mainClass": "ExceptionError.ThrowThrows",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Quiz.Practice",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SwingAPI.Main",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionClass",
+            "request": "launch",
+            "mainClass": "ExceptionError.ExceptionClass",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionAndError",
+            "request": "launch",
+            "mainClass": "ExceptionError.ExceptionAndError",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "inheritance.Test",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main.Main",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ThreadMethods",
+            "request": "launch",
+            "mainClass": "Threading.ThreadMethods",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ThreadPriorities",
+            "request": "launch",
+            "mainClass": "Threading.ThreadPriorities",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ConstructerOfThread",
+            "request": "launch",
+            "mainClass": "Threading.ConstructerOfThread",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ThreadRunnableInterface",
+            "request": "launch",
+            "mainClass": "Threading.ThreadRunnableInterface",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreading",
+            "request": "launch",
+            "mainClass": "Threading.MultiThreading",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
             "name": "Array",
             "request": "launch",
             "mainClass": "Basic.Array",

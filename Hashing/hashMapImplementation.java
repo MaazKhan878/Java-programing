@@ -1,7 +1,7 @@
 package Hashing;
 import java.util.*;
 public class hashMapImplementation {
-    static class HashMap<K, V>{//<> generic type mean Genral type we donnot lnow the type
+    static class HashMap<K, V>{//<> generic type mean Genral type we donnot know the type
         private class Node{
             K key;
             V value;
