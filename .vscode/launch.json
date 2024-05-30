@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Saad.Test",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "insertImage",
+            "request": "launch",
+            "mainClass": "JDBC.insertImage",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "BufferDIns",
+            "request": "launch",
+            "mainClass": "JDBC.BufferDIns",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "JDBCConnection",
+            "request": "launch",
+            "mainClass": "JDBC.JDBCConnection",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "FirstJDBC",
+            "request": "launch",
+            "mainClass": "JDBC.FirstJDBC",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "firstJDBC",
+            "request": "launch",
+            "mainClass": "JDBC.firstJDBC",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "storeData",
+            "request": "launch",
+            "mainClass": "fileHandling.storeData",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Engm",
+            "request": "launch",
+            "mainClass": "midExam.Engm",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "MainIn",
+            "request": "launch",
+            "mainClass": "midExam.MainIn",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "midExam.Main",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "midExam.Basic",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "BasicProgram",
+            "request": "launch",
+            "mainClass": "BasicProgram.BasicProgram",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
             "name": "AbstractClasses",
             "request": "launch",
             "mainClass": "AbstractAndInterfaces.AbstractClasses",
