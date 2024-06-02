@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Update",
+            "request": "launch",
+            "mainClass": "JDBC.Update",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "StoreImgToDataBase",
+            "request": "launch",
+            "mainClass": "JDBC.StoreImgToDataBase",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "InsertLargeImage",
+            "request": "launch",
+            "mainClass": "JDBC.InsertLargeImage",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
+            "name": "ICreated",
+            "request": "launch",
+            "mainClass": "JDBC.ICreated",
+            "projectName": "JAVA PROGRAMING_1f8f1626"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "Saad.Test",

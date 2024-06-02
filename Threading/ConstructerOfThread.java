@@ -13,7 +13,7 @@ class MyThr extends Thread{
 class MyThr2 implements Runnable{
     public void run(){
         for(int i = 0; i<10; i++){
-            System.out.println("I am a Maaz Khan and Munipulatin the thread class");
+            System.out.println("I am a Maaz Khan and Munipulating thread class");
         }
     }
 }
@@ -36,4 +36,4 @@ public class ConstructerOfThread {
     }
     
 }
-// Must useful method learn 
+// Most useful method learn 
